@@ -1,0 +1,10 @@
+path : "D:/Corsin/ML_ALPR_SCRATCH/dataset"
+
+train:  "D:/Corsin/ML_ALPR_SCRATCH/dataset/images/train"
+val:    "D:/Corsin/ML_ALPR_SCRATCH/dataset/images/valid"
+test:   "D:/Corsin/ML_ALPR_SCRATCH/dataset/images/test"
+
+
+nc: 1
+names: ['License_Plate']
+
